@@ -1,7 +1,9 @@
 # Sparkify Data Lake
 In this project, we'll create a data lakes to build an ETL pipeline for a data lake hosted on S3  
 > we will need to load data from S3,
+
 > process the data into analytics tables using Spark,
+
 > and load them back into S3. 
  
 ## Project Description
